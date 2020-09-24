@@ -1,6 +1,6 @@
 {
   "name": "simple-credit-card-type",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple library to get credit card type",
   "main": "app.js",
   "scripts": {
