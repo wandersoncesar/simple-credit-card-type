@@ -21,7 +21,7 @@ function getType(number) {
         }
     });
 
-    return match && creditCardType ? creditCardType : 'Type not found.';
+    return match && creditCardType ? creditCardType : null;
 }
 
 module.exports = getType;
