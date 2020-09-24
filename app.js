@@ -16,7 +16,7 @@ function getType(number) {
     types.forEach(function(type) {
         if (type && type.regex && type.regex.test(number)) {
             match = true;
-            creditCardType = type;
+            creditCardType = type.name;
             return;
         }
     });
