@@ -1,4 +1,4 @@
-# simple-credit-card-validator
+# simple-credit-card-type
 A simple library to get credit card type
 ## How to install
 `npm install --save simple-credit-card-type`
